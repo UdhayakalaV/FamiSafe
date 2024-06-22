@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FS</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="hello">Hello</string>
+    <string name="safety_at_your_palm">Safety at your palm</string>
+    <string name="family_at_your_vision">Family at your vision,</string>
+    <string name="famisafe">FamiSafe</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_dashboard">dashboard</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="logout">Logout</string>
+    <string name="family_locator">FAMILY LOCATOR</string>
+    <string name="groups">GROUPS</string>
+    <string name="edit_profile">EDIT PROFILE</string>
+    <string name="location_history">LOCATION HISTORY</string>
+    <string name="current_location">Current Location</string>
+    <string name="name">NAME</string>
+    <string name="FamiSafe">FamiSafe</string>
+    <string name="share_location">SHARE LOCATION</string>
+    <string name="family">FAMILY</string>
+    <string name="DO">TODO</string>
+    <string name="my_profile">My Profile</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "18295867497",
+    "project_id": "famisafe-dc396",
+    "storage_bucket": "famisafe-dc396.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18295867497:android:7af1ee5c786778539cfaf8",
+        "android_client_info": {
+          "package_name": "com.example.fs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSx6rxiM91gFgkTARdyl2gDN7m9kpIJ3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

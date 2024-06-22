@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:textAlignment="center"
+    android:background="@drawable/bggg"
+    tools:context=".Frontpage">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logo"
+        android:foregroundGravity="center"
+        android:paddingTop="300dp"
+        android:contentDescription="@string/todo"
+        />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/famisafe"
+        android:textSize="50sp"
+        android:gravity="center"
+        tools:layout_editor_absoluteX="80dp"
+        tools:layout_editor_absoluteY="200dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/family_at_your_vision"
+        android:textSize="28sp"
+        android:gravity="center"
+        tools:layout_editor_absoluteX="80dp"
+        tools:layout_editor_absoluteY="500dp"
+        tools:ignore="MissingConstraints" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/safety_at_your_palm"
+        android:textSize="28sp"
+        android:gravity="center"
+        tools:layout_editor_absoluteX="80dp"
+        tools:layout_editor_absoluteY="530dp"
+        />
+</LinearLayout>
